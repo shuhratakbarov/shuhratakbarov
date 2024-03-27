@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shuhratakbarov
+- 👀 I’m interested in technologies
+- 🌱 I’m currently learning Java 
+- 📫 How to reach me : shuhratakbarov5@gmail.com
