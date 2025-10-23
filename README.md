@@ -98,11 +98,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Building%20the%20future,%20one%20commit%20at%20a%20time&fontSize=16&fontColor=4a9eff&animation=twinkling&fontAlignY=70" width="100%" />
 </p>
 
-<p align="center">
-  <em>"We used to look up at the sky and wonder at our place in the stars.<br/>
-  Now we just look down and worry about our place in the dirt."</em>
-</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shuhratakbarov&color=4a9eff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </div>
