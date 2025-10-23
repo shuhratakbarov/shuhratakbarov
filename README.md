@@ -15,13 +15,13 @@
     <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4A9EFF&logoColor=white&labelColor=1a1a2e&style=for-the-badge" height="35" alt="website" />
   </a>
   <a href="https://www.linkedin.com/in/shuhratakbarov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4A9EFF&logoColor=white&labelColor=1a1a2e&style=for-the-badge" height="35" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=inspire&label=&color=4A9EFF&logoColor=white&labelColor=1a1a2e&style=for-the-badge" height="35" alt="linkedin" />
   </a>
   <a href="mailto:shuhratakbarov5@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=4A9EFF&logoColor=white&labelColor=1a1a2e&style=for-the-badge" height="35" alt="gmail" />
   </a>
   <a href="https://monkeytype.com/profile/shuhratakbarov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=MonkeyType&logo=keybase&label=&color=4A9EFF&logoColor=white&labelColor=1a1a2e&style=for-the-badge" height="35" alt="monkeytype" />
+    <img src="https://img.shields.io/static/v1?message=MonkeyType&logo=monkeytype&label=&color=4A9EFF&logoColor=white&labelColor=1a1a2e&style=for-the-badge" height="35" alt="monkeytype" />
   </a>
 </div>
 
