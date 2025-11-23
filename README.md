@@ -47,14 +47,20 @@
 
 <h3 align="center">🌟 Featured Project</h3>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/shuhratakbarov/lms">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhratakbarov&repo=lms&theme=tokyonight&bg_color=0d1117&title_color=4a9eff&icon_color=4a9eff&text_color=a8c5e0&border_color=4a9eff" />
   </a>
   <a href="https://github.com/shuhratakbarov/lms-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shuhratakbarov&repo=lms-frontend&theme=tokyonight&bg_color=0d1117&title_color=4a9eff&icon_color=4a9eff&text_color=a8c5e0&border_color=4a9eff" />
   </a>
-</div>
+</div> -->
+
+<p align="center">
+  <a href="https://lms.shuhratakbarov.uz">
+    lms.shuhratakbarov.uz
+  </a>  
+</p>
 
 <p align="center">
   <em>A comprehensive web-based Learning Management System connecting administrators, teachers, and students.<br/>
