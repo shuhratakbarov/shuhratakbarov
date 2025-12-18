@@ -40,7 +40,7 @@
 <h3 align="center">⚡ Technology Arsenal</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,ubuntu,nginx,js,css,html,docker,git,github&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,ubuntu,github,js,css,html,docker,git,nginx&theme=dark&perline=6" />
 </div>
 
 ###
