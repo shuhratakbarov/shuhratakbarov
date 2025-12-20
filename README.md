@@ -76,9 +76,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuhratakbarov&theme=tokyonight&background=0d1117&ring=4a9eff&fire=4a9eff&currStreakLabel=4a9eff&border=4a9eff" height="170" alt="streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhratakbarov&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4a9eff&text_color=a8c5e0&border_color=4a9eff&langs_count=8" alt="languages" />
-</div>
+</div> -->
 
 ###
 
