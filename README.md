@@ -27,13 +27,13 @@
 
 ###
 
-<h3 align="center">🚀 Currently Exploring</h3>
+<!-- <h3 align="center">🚀 Currently Exploring</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8s" />
   <img src="https://img.shields.io/badge/Load_Balancing-4A9EFF?style=for-the-badge&logo=nginx&logoColor=white" alt="load balancing" />
   <img src="https://img.shields.io/badge/Distributed_Systems-0f3460?style=for-the-badge&logo=apache&logoColor=white" alt="distributed" />
-</p>
+</p> -->
 
 ###
 
