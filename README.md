@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="center">🌟 Featured Project</h3>
+<h3 align="center">🌟 Featured Projects</h3>
 
 <!-- <div align="center">
   <a href="https://github.com/shuhratakbarov/lms">
@@ -65,6 +65,17 @@
 <p align="center">
   <em>A comprehensive web-based Learning Management System connecting administrators, teachers, and students.<br/>
   Features: Course Management • Assignment Submission • Real-time Messaging • Role-based Access Control</em>
+</p>
+
+<p align="center">
+  <a href="https://dws.shuhratakbarov.uz">
+    dws.shuhratakbarov.uz
+  </a>  
+</p>
+
+<p align="center">
+  <em>A microservices-based digital wallet system built with Spring Boot and React<br/>
+  Features: P2P Transfer • Transaction history • Multi-currency wallets</em>
 </p>
 
 ###
