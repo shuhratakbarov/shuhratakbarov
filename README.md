@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=SHUHRAT+AKBAROV;FULL+STACK+DEVELOPER;Building+The+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=SHUHRAT+AKBAROV;FULL+STACK+DEVELOPER" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -115,6 +115,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Building%20the%20future,%20one%20commit%20at%20a%20time&fontSize=16&fontColor=4a9eff&animation=twinkling&fontAlignY=70" width="100%" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shuhratakbarov&color=4a9eff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-</div>
+</div> -->
