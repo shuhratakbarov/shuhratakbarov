@@ -11,7 +11,7 @@
 <h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
-  <a href="https://shuhratakbarov.uz" target="_blank">
+  <a href="https://shuhrat.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4A9EFF&logoColor=white&labelColor=1a1a2e&style=for-the-badge" height="35" alt="website" />
   </a>
   <a href="https://www.linkedin.com/in/shuhratakbarov" target="_blank">
@@ -57,8 +57,8 @@
 </div> -->
 
 <p align="center">
-  <a href="https://lms.shuhratakbarov.uz">
-    lms.shuhratakbarov.uz
+  <a href="https://lms.shuhrat.me">
+    lms.shuhrat.me
   </a>  
 </p>
 
@@ -115,6 +115,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Building%20the%20future,%20one%20commit%20at%20a%20time&fontSize=16&fontColor=4a9eff&animation=twinkling&fontAlignY=70" width="100%" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shuhratakbarov&color=4a9eff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-</div>
+</div> -->
