@@ -67,16 +67,16 @@
   Features: Course Management • Assignment Submission • Real-time Messaging • Role-based Access Control</em>
 </p>
 
-<!-- <p align="center">
-  <a href="https://dws.shuhratakbarov.uz">
-    dws.shuhratakbarov.uz
+<p align="center">
+  <a href="https://dws.shuhrat.me">
+    dws.shuhrat.me
   </a>  
 </p>
 
 <p align="center">
   <em>A microservices-based digital wallet system built with Spring Boot and React<br/>
   Features: P2P Transfer • Transaction history • Multi-currency wallets</em>
-</p> -->
+</p>
 
 ###
 
